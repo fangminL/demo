@@ -1,5 +1,5 @@
 # Nuxt dev/build outputs
-# .output
+.output
 .data
 .nuxt
 .nitro
@@ -24,3 +24,5 @@ logs
 !.env.example
 
 # .vercel
+
+.vercel
