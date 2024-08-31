@@ -1,0 +1,1 @@
+import{t as e}from"./Cf58aPhk.js";import{_ as t,c as a,a as s,u as r,o as f}from"./FDRnG0H-.js";import"./BKDBYnB6.js";const c={};function d(o,n){return f(),a("div",null,[s("a",{href:"javascript:void(0);",onClick:n[0]||(n[0]=(...i)=>("toLogin"in o?o.toLogin:r(e))&&("toLogin"in o?o.toLogin:r(e))(...i))},"点击登录")])}const u=t(c,[["render",d]]);export{u as default};
