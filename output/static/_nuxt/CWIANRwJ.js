@@ -1,0 +1,1 @@
+import{u as a}from"./BKDBYnB6.js";import{n as o,o as r,c as u,a as e,t as n,u as t}from"./FDRnG0H-.js";const c=e("h1",null,"首页",-1),l={class:"user"},f=o({__name:"index",setup(_){const s=a();return(i,m)=>(r(),u("div",null,[c,e("div",l,[e("h2",null,"用户名："+n(t(s).name),1),e("h2",null,"年龄："+n(t(s).age),1)])]))}});export{f as default};
