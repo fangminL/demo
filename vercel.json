@@ -1,0 +1,22 @@
+{
+    "functions": {
+      "directory": "functions"
+    },
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/api/$1"
+      }
+    ],
+    "headers": [
+      {
+        "source": "service-worker.js",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
+          }
+        ]
+      }
+    ]
+  }
