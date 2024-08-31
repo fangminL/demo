@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>用户</h1>
+        <h1>用户页</h1>
         <div class="user" v-if="users.isLoggedIn">
             <h2>用户名：{{ users.name }}</h2>
             <h2>年龄：{{ users.age }}</h2>
